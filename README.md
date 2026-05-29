@@ -29,6 +29,8 @@ My personal config files for my arch setup, also read the notes part to get some
 
 ## Installation
 
+Clone this repo first then,
+
 Copy the folder you want into the appropriate place in `~/.config/`.
 
 for example:
